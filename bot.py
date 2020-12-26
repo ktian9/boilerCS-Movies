@@ -7,7 +7,7 @@ import os
 import asyncio
 
 
-TOKEN = 'NzkyNDM0NDgwNzM2NTAxNzYx.X-dqHg.VU4Usm3oD85KwkwmyMYe9bcmWq0'
+TOKEN = ''
 client = commands.Bot(command_prefix = "!bcs ")
 
 
