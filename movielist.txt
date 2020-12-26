@@ -1,0 +1,40 @@
+1,I Want To Eat Your Pancreas,kevin,not watched,NA
+2,Borat 1,all,not watched,NA
+3,Borat 2,all,not watched,NA
+4,Bruno,Josh,not watched,NA
+5,Weathering With You,Kevin,not watched,NA
+6,Parasite,Everest,watched,NA
+7,Kill Bill 1,Shiv,not watched,NA
+8,Kill Bill 2,Shiv,not watched,NA
+9,Shutter Island,shiv,watched,12/24/2020
+10,Nice Guys,shiv,not watched,NA
+11,The Martian,all,not watched,NA
+12,Airplane,all,not watched,NA
+13,Pink Panther 1-2,jeremy,not watched,NA
+14,Snowpiercer,kevin,watched,NA
+15,Hunt for Red October,josh,watched,NA
+16,Letters from Iwo Jima,kevin,not watched,NA
+17,Grave of the Fireflies,shiv,not watched,NA
+18,2001 a Space Odyssey,shiv,not watched,NA
+19,Pulp Fiction,shiv,not watched,NA
+20,Lost in Translation,shiv,not watched,NA
+21,Oceans 11 - Jeremy,Jeremy,watched,NA
+22,Fargo,shiv,watched,NA
+23,Spy,shiv,not watched,NA
+24,Arrival,shiv,watched,NA
+25,Close Encounters of the Third Kind,shiv,not watched,NA
+26,The Battle for Sevastopol,Dave,not watched,NA
+27,Groundhog Day,shiv,not watched,NA
+28,My Neighbor Totoro,Everest,not watched,NA
+29,A Silent Voice,Kevin,not watched,NA
+30,Annie Hall,shiv,not watched,NA
+31,The Wrong Man,shiv,not watched,NA
+32,Apollo 13,shiv,not watched,NA
+33,Skyfall,Jeremy,not watched,NA
+34,Oceans 12,Jeremy,watched,NA
+35,Oceans 13,Jeremy,watched,NA
+36,Inception,shiv,not watched,NA
+37,Die Hard,Josh,not watched,NA
+38,Good Boys,shiv,not watched,NA
+39,Bridge of Spies,shiv,not watched,NA
+40,Thirteen Days,Kevin,not watched,NA
